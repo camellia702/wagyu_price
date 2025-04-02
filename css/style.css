@@ -20,6 +20,18 @@ p {
   margin: 0 auto;
   padding: 0 20px;
 }
+/*.card{
+  display: flex;
+  flex-wrap: wrap;
+  width: 75%;
+  height: auto;
+}*/
+/*.container-fluid {
+  display: flex;
+  flex-wrap: wrap;
+  width: 25%;
+  height: auto;
+}*/
 
 .result {
   padding: 60px 20px 20px;
@@ -56,4 +68,4 @@ p {
 footer {
   background-color: #343a40;
   text-align: center;
-}
+} 
